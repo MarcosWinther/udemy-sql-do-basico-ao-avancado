@@ -45,7 +45,7 @@
 - Passos:
 	- Cria um banco;
 	- Selecione o banco com ``USE <nome>``;
-	- Depois utilize o comando: ``source <arquivo>.
+	- Depois utilize o comando: ``source <arquivo>``.
 - O comando **USE** faz o banco de dados ser o principal do momento;
 - Precisamos estar com o terminal na pasta do arquivo.
 
