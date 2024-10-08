@@ -14,14 +14,14 @@
 - Todos os bancos disponíveis em nosso SGBD serão exibidos.
 
 
-## 📂 Verificando Banco de Dados
+## 📂 Deletando um Banco de Dados
 
 - Para deletar um banco de dados utilizamos o comando: ``DROP DATABASE <nome>``;
 - Essa ação frequentemente é chamada de **dropar**;
 - **Observação:** após essa ação tabelas e dados são perdidos!
 
 
-## 📂 Verificando Banco de Dados
+## 📂 Exportando um Banco de Dados
 
 - Para exportando os bancos podemos utilizar o comando: ``mysqldump -u root <nome_banco> <nome_arquivo>.sql``;
 - Desta forma todas as tabelas e dados ficarão salvas em um arquivo.sql.
